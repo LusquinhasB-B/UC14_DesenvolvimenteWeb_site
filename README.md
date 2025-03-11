@@ -1,2 +1,4 @@
 # UC14_DesenvolvimenteWeb_site
-Atividade proposta da UC14 de Desenvolvimento Web utilizando HTML5 e CSS3.
+Atividade proposta da UC14 (Desenvolvimento Web) do Curso de Internet das Coisas.
+HTML5 E CSS3
+
